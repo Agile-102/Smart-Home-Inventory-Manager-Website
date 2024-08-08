@@ -6,7 +6,6 @@ package-lock.json
 
 # Tailwind CSS build artifacts
 *.css.map
-src/css/*.css
 
 # OS generated files
 .DS_Store
