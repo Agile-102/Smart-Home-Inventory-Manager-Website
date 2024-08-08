@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Lockfile for exact dependency versions
+package-lock.json
+
+# Tailwind CSS build artifacts
+*.css.map
+src/css/*.css
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files (if used)
+.env
